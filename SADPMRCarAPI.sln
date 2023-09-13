@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SADPMRCarAPI", "SADPMRCarAPI\SADPMRCarAPI.csproj", "{9D26F421-36BC-461E-BCE9-E0098E60E328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Debug|x64.ActiveCfg = Debug|x64
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Debug|x64.Build.0 = Debug|x64
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Release|x64.ActiveCfg = Release|x64
+		{9D26F421-36BC-461E-BCE9-E0098E60E328}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7D2C13-9258-4912-975F-435E478A348A}
+	EndGlobalSection
+EndGlobal
